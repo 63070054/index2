@@ -32,7 +32,7 @@
             </div>
         </div>
     </div>
-
+    <center><a href="card.html">This is card pages</a></center>
 </body>
 
 </html>
